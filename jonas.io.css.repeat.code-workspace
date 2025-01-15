@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "course/01-test"
+    },
+    {
+      "path": "course/02-HTML-Fundamentals"
+    },
+    {
+      "path": "course/03-HTML-CSS-Fundamentals"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "jonas.io.css.repeat"
+  }
+}
