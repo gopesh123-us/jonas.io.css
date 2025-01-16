@@ -18,10 +18,10 @@ body {
 }
 a {
   color: #242424;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .heading-3 {
   text-transform: uppercase;
