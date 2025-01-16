@@ -1,5 +1,5 @@
-* {
-  color: red;
+body {
+  color: #444;
   font-family: sans-serif;
 }
 
@@ -76,6 +76,7 @@ article header p {
 
 .main-header {
   background-color: #f7f7f7;
+  padding: 1rem;
 }
 
 aside {
